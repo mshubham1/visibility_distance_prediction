@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+        body {
+            background-color: #76D7C4;
+            text-align: center;
+            padding: 0px;
+        }
+         
+        #box {
+            border-radius: 60px;
+            border-color: 45px;
+            border-style: solid;
+            font-family: cursive;
+            text-align: center;
+            background-color: rgb(168, 131, 61);
+            font-size: medium;
+            position: absolute;
+            width: 700px;
+            bottom: 9%;
+            height: 850px;
+            right: 30%;
+            padding: 0px;
+            margin: 0px;
+            font-size: 14px;
+        }
+        
+        
+        
+        #sub {
+            width: 120px;
+            height: 43px;
+            text-align: center;
+            border-radius: 14px;
+            font-size: 18px;
+        }
+        
+        #sub:hover {
+            background-color: darkcyan;
+        }
+        
+        #third {
+            border-radius: 14px;
+            height: 25px;
+            font-size: 20px;
+            text-align: center;
+        }
+       
+    </style>
+
+</head>
+
+<body>
+    <div style="color:red">
+        
+       
+        <form action="{{ url_for('predict')}}" method="post">
+            <h2>Predictive analysis</h2>
+            <h3>WETBULBTEMPF: </h3><input id="third" name="WETBULBTEMPF1" placeholder="eg. 35" required="required">
+            <h3>RelativeHumidity:  </h3><br><input id="third" name="RelativeHumidity" placeholder="eg. 60"  required="required">  
+            <h3>WindSpeed: </h3><br><input id="third" name="WindSpeed" placeholder="eg. 33"  required="required">
+            <h3>WindDirection: </h3><br><input id="third" name="WindDirection" placeholder="eg. 140"  required="required">
+            <h3>SeaLevelPressure: </h3><br><input id="third" name="SeaLevelPressure" placeholder="eg. <in 28 to 30>"  required="required">
+            <br><br><button id="sub" type="submit "> Predict Visibility </button>
+            <br>
+        </form>
+
+        <br><br><h3>{{result}}<h3>
+    </div>
+    
+</body>
+
+</html>

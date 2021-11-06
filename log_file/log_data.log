@@ -1,0 +1,66 @@
+2021-10-29 <> 11:42:54 : INFO : Successfully retrieved information from the user... !
+2021-10-29 <> 11:43:09 : INFO : Database connection established..! !
+2021-10-29 <> 11:43:09 : INFO : Database Created !
+2021-10-29 <> 11:43:09 : INFO : Collection Created!
+2021-10-29 <> 11:43:11 : INFO : Data Inserted in the Collection Successfully !!
+2021-10-29 <> 11:43:11 : INFO : Database connection closed Successfully !!
+2021-10-29 <> 11:43:11 : INFO : Prediction done Successfully !
+2021-10-29 <> 11:43:35 : INFO : Database connection established..! !
+2021-10-29 <> 11:43:35 : INFO : Retriviwed all data from Collection Visibility !
+2021-10-29 <> 11:43:36 : INFO : Closing the Connection !
+2021-10-29 <> 11:43:36 : INFO : Rendering tamplate <database.html> with all Data !
+
+2021-10-29 <> 16:39:40:New Logger instance created !
+
+
+2021-10-29 <> 16:39:40:New Logger instance created !
+
+2021-10-29 <> 16:39:40 : INFO : Execution started Successfully !
+
+2021-10-29 <> 17:35:20:New Logger instance created !
+
+2021-10-29 <> 17:35:20 : INFO : Execution started Successfully !
+2021-10-29 <> 17:35:20 : INFO : Execution started Successfully !
+
+2021-11-06 <> 15:37:37:New Logger instance created !
+
+2021-11-06 <> 15:37:37 : INFO : Execution started Successfully !
+
+2021-11-06 <> 15:38:24:New Logger instance created !
+
+2021-11-06 <> 15:38:24 : INFO : Execution started Successfully !
+2021-11-06 <> 15:42:11 : INFO : Successfully retrieved information from the user... !
+
+2021-11-06 <> 15:42:41:New Logger instance created !
+
+2021-11-06 <> 15:42:42 : INFO : Execution started Successfully !
+2021-11-06 <> 15:43:00 : INFO : Return from the Predict Route!!
+2021-11-06 <> 15:43:23 : INFO : Successfully retrieved information from the user... !
+2021-11-06 <> 15:43:23 : INFO : Successfully retrieved information from the user... !
+2021-11-06 <> 15:43:32 : INFO : Database connection established..! !
+2021-11-06 <> 15:43:32 : INFO : Database connection established..! !
+2021-11-06 <> 15:43:32 : INFO : Database Created !
+2021-11-06 <> 15:43:32 : INFO : Database Created !
+2021-11-06 <> 15:43:33 : INFO : Collection Created!
+2021-11-06 <> 15:43:33 : INFO : Collection Created!
+2021-11-06 <> 15:43:36 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-06 <> 15:43:36 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-06 <> 15:43:36 : INFO : Database connection closed Successfully !!
+2021-11-06 <> 15:43:36 : INFO : Database connection closed Successfully !!
+2021-11-06 <> 15:43:36 : INFO : Prediction done Successfully !
+2021-11-06 <> 15:43:36 : INFO : Prediction done Successfully !
+
+2021-11-06 <> 15:43:40:New Logger instance created !
+
+2021-11-06 <> 15:43:40 : INFO : Execution started Successfully !
+2021-11-06 <> 15:44:31 : INFO : Successfully retrieved information from the user... !
+2021-11-06 <> 15:44:40 : INFO : Database connection established..! !
+2021-11-06 <> 15:44:40 : INFO : Database Created !
+2021-11-06 <> 15:44:40 : INFO : Collection Created!
+2021-11-06 <> 15:44:41 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-06 <> 15:44:41 : INFO : Database connection closed Successfully !!
+2021-11-06 <> 15:44:41 : INFO : Prediction done Successfully !
+2021-11-06 <> 15:45:23 : INFO : Database connection established..! !
+2021-11-06 <> 15:45:23 : INFO : Retriviwed all data from Collection Visibility !
+2021-11-06 <> 15:45:24 : INFO : Closing the Connection !
+2021-11-06 <> 15:45:24 : INFO : Rendering tamplate <database.html> with all Data !
