@@ -1,0 +1,1 @@
+{"Model":{"0":"Decision Tree Regressor","1":"Random Forest Regressor","2":"Decision Tree Regressor"},"MAE":{"0":0.6565,"1":0.5885,"2":0.6},"MSE":{"0":3.3847,"1":1.8981,"2":2.1634},"RMSE":{"0":1.8398,"1":1.3777,"2":1.4708}}
