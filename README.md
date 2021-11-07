@@ -15,13 +15,14 @@ To build a regression model to predict the visibility distance based on the give
 * Bug/Feature Request
 * Future scope of project
 ## Demo
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/47842305/140636425-408f65bd-e42c-41dc-a2ca-159e3ee3e668.gif)
+
 Heroku:- https://visibility_distance_prediction.herokuapp.com/
-
-AWS(Ec2):- https://ec2-54-84-85-146.compute-1.amazonaws.com:5000 
-
 
 ## Overview  📜
 The application is a web app which is developed in Flask Framework.
+
 ## Dataset  
 Dataset available in IBM : https://developer.ibm.com/exchanges/data/all/jfk-weather-data/
 
@@ -32,8 +33,10 @@ The Code is written in Python 3.8 If you don't have Python installed you can fin
   pip install -r requirements.txt
 ```
 ## Deployment
+![image](https://user-images.githubusercontent.com/47842305/140636459-9a17b723-7da8-45f9-afeb-0c22f78223f4.png)
 
 ## Database 
+![Screenshot (33)](https://user-images.githubusercontent.com/47842305/140636439-2d0e4a19-f3ed-44c5-8d2a-b83a39bf7f88.png)
 
 ## Tree Structure
 ```javascript
