@@ -2,6 +2,7 @@
 # Visibility Distance Prediction
 
 To build a regression model to predict the visibility distance based on the given different climatic indicators in the training data. 
+Visibility affects all forms of traffic: roads, sailing, and aviation. Visibility prediction is meaningful in guiding production and life.
 
 ## Table Content ✏️
 * Demo
@@ -22,6 +23,11 @@ Heroku:- https://visibility_distance_prediction.herokuapp.com/
 
 ## Overview  📜
 The application is a web app which is developed in Flask Framework.
+* Data Exploration - Using pandas,numpy,matplotlib and seaborn.
+* Data Visulization- Insights obtained through graph about dependent and independent variable.
+* Feature Engineering - Drop the column with higher correlation and perform StandardScaler to scale the data.
+* Model Training - Trained the model with different regressor algo and obtained the DecisionTreeRegressor with best score.
+* Deployment - Biuld the webpage through Streamlit Library and deployed on heroku app.
 
 ## Dataset  
 Dataset available in IBM : https://developer.ibm.com/exchanges/data/all/jfk-weather-data/
