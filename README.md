@@ -74,6 +74,11 @@ The Code is written in Python 3.8 If you don't have Python installed you can fin
 * Backend: Flask 
 * Deployment : AWS, Heroku
 
+![image](https://user-images.githubusercontent.com/47842305/140639851-383d14d8-aff7-4cd0-ae5d-68a456f2f317.png)
+![image](https://user-images.githubusercontent.com/47842305/140639859-bc1aa162-84c8-488f-b284-34db2b6fee2b.png)
+![image](https://user-images.githubusercontent.com/47842305/140639874-6c2d32d4-2abc-4f1a-8631-e2c0dd546d66.png)
+
+
 ## Contributers
 You can feel free to reach out me at shubhammourya2014@gmail.com
 
