@@ -6,12 +6,12 @@ gunicorn==20.1.0
 importlib-metadata==4.8.2
 itsdangerous==2.0.1
 Jinja2==3.0.3
-joblib==1.1.0
+joblib==1.0.1
 MarkupSafe==2.0.1
 numpy==1.21.4
 scikit-learn==1.0.1
-pandas==1.2.4
-sklearn==0.0
+pandas
+sklearn
 threadpoolctl==3.0.0
 typing_extensions==4.0.0
 Werkzeug==2.0.2
@@ -19,4 +19,3 @@ wincertstore==0.2
 zipp==3.6.0
 pymongo
 dnspython
-pandas==1.2.4
