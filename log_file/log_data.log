@@ -1,0 +1,261 @@
+2021-10-29 <> 11:42:54 : INFO : Successfully retrieved information from the user... !
+2021-10-29 <> 11:43:09 : INFO : Database connection established..! !
+2021-10-29 <> 11:43:09 : INFO : Database Created !
+2021-10-29 <> 11:43:09 : INFO : Collection Created!
+2021-10-29 <> 11:43:11 : INFO : Data Inserted in the Collection Successfully !!
+2021-10-29 <> 11:43:11 : INFO : Database connection closed Successfully !!
+2021-10-29 <> 11:43:11 : INFO : Prediction done Successfully !
+2021-10-29 <> 11:43:35 : INFO : Database connection established..! !
+2021-10-29 <> 11:43:35 : INFO : Retriviwed all data from Collection Visibility !
+2021-10-29 <> 11:43:36 : INFO : Closing the Connection !
+2021-10-29 <> 11:43:36 : INFO : Rendering tamplate <database.html> with all Data !
+
+2021-10-29 <> 16:39:40:New Logger instance created !
+
+
+2021-10-29 <> 16:39:40:New Logger instance created !
+
+2021-10-29 <> 16:39:40 : INFO : Execution started Successfully !
+
+2021-10-29 <> 17:35:20:New Logger instance created !
+
+2021-10-29 <> 17:35:20 : INFO : Execution started Successfully !
+2021-10-29 <> 17:35:20 : INFO : Execution started Successfully !
+
+2021-11-06 <> 15:37:37:New Logger instance created !
+
+2021-11-06 <> 15:37:37 : INFO : Execution started Successfully !
+
+2021-11-06 <> 15:38:24:New Logger instance created !
+
+2021-11-06 <> 15:38:24 : INFO : Execution started Successfully !
+2021-11-06 <> 15:42:11 : INFO : Successfully retrieved information from the user... !
+
+2021-11-06 <> 15:42:41:New Logger instance created !
+
+2021-11-06 <> 15:42:42 : INFO : Execution started Successfully !
+2021-11-06 <> 15:43:00 : INFO : Return from the Predict Route!!
+2021-11-06 <> 15:43:23 : INFO : Successfully retrieved information from the user... !
+2021-11-06 <> 15:43:23 : INFO : Successfully retrieved information from the user... !
+2021-11-06 <> 15:43:32 : INFO : Database connection established..! !
+2021-11-06 <> 15:43:32 : INFO : Database connection established..! !
+2021-11-06 <> 15:43:32 : INFO : Database Created !
+2021-11-06 <> 15:43:32 : INFO : Database Created !
+2021-11-06 <> 15:43:33 : INFO : Collection Created!
+2021-11-06 <> 15:43:33 : INFO : Collection Created!
+2021-11-06 <> 15:43:36 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-06 <> 15:43:36 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-06 <> 15:43:36 : INFO : Database connection closed Successfully !!
+2021-11-06 <> 15:43:36 : INFO : Database connection closed Successfully !!
+2021-11-06 <> 15:43:36 : INFO : Prediction done Successfully !
+2021-11-06 <> 15:43:36 : INFO : Prediction done Successfully !
+
+2021-11-06 <> 15:43:40:New Logger instance created !
+
+2021-11-06 <> 15:43:40 : INFO : Execution started Successfully !
+2021-11-06 <> 15:44:31 : INFO : Successfully retrieved information from the user... !
+2021-11-06 <> 15:44:40 : INFO : Database connection established..! !
+2021-11-06 <> 15:44:40 : INFO : Database Created !
+2021-11-06 <> 15:44:40 : INFO : Collection Created!
+2021-11-06 <> 15:44:41 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-06 <> 15:44:41 : INFO : Database connection closed Successfully !!
+2021-11-06 <> 15:44:41 : INFO : Prediction done Successfully !
+2021-11-06 <> 15:45:23 : INFO : Database connection established..! !
+2021-11-06 <> 15:45:23 : INFO : Retriviwed all data from Collection Visibility !
+2021-11-06 <> 15:45:24 : INFO : Closing the Connection !
+2021-11-06 <> 15:45:24 : INFO : Rendering tamplate <database.html> with all Data !
+
+2021-11-06 <> 17:38:47:New Logger instance created !
+
+2021-11-06 <> 17:38:47 : INFO : Execution started Successfully !
+
+2021-11-06 <> 18:54:07:New Logger instance created !
+
+2021-11-06 <> 18:54:07 : INFO : Execution started Successfully !
+
+2021-11-06 <> 18:54:37:New Logger instance created !
+
+2021-11-06 <> 18:54:37 : INFO : Execution started Successfully !
+2021-11-06 <> 23:19:45 : INFO : Successfully retrieved information from the user... !
+2021-11-06 <> 23:19:45 : ERROR : Error while connecting to Database :All nameservers failed to answer the query _mongodb._tcp.cluster0.j7nj9.mongodb.net. IN SRV: Server 192.168.42.129 UDP port 53 answered [WinError 10065] A socket operation was attempted to an unreachable host; Server 192.168.1.1 UDP port 53 answered [WinError 10065] A socket operation was attempted to an unreachable host; Server 192.168.141.3 UDP port 53 answered [WinError 10065] A socket operation was attempted to an unreachable host
+2021-11-06 <> 23:19:45 : ERROR : Found error in DB or Collection : local variable 'client' referenced before assignment
+2021-11-06 <> 23:19:45 : ERROR : found error in info json :local variable 'collection' referenced before assignment
+2021-11-06 <> 23:20:05 : INFO : Successfully retrieved information from the user... !
+2021-11-06 <> 23:20:05 : ERROR : Error while connecting to Database :All nameservers failed to answer the query _mongodb._tcp.cluster0.j7nj9.mongodb.net. IN SRV: Server 192.168.42.129 UDP port 53 answered [WinError 10065] A socket operation was attempted to an unreachable host; Server 192.168.1.1 UDP port 53 answered [WinError 10065] A socket operation was attempted to an unreachable host; Server 192.168.141.3 UDP port 53 answered [WinError 10065] A socket operation was attempted to an unreachable host
+2021-11-06 <> 23:20:05 : ERROR : Found error in DB or Collection : local variable 'client' referenced before assignment
+2021-11-06 <> 23:20:05 : ERROR : found error in info json :local variable 'collection' referenced before assignment
+2021-11-06 <> 23:20:28 : INFO : Return from the Predict Route!!
+2021-11-06 <> 23:20:55 : INFO : Successfully retrieved information from the user... !
+2021-11-06 <> 23:20:55 : ERROR : Error while connecting to Database :All nameservers failed to answer the query _mongodb._tcp.cluster0.j7nj9.mongodb.net. IN SRV: Server 192.168.42.129 UDP port 53 answered [WinError 10065] A socket operation was attempted to an unreachable host; Server 192.168.1.1 UDP port 53 answered [WinError 10065] A socket operation was attempted to an unreachable host; Server 192.168.141.3 UDP port 53 answered [WinError 10065] A socket operation was attempted to an unreachable host
+2021-11-06 <> 23:20:55 : ERROR : Found error in DB or Collection : local variable 'client' referenced before assignment
+2021-11-06 <> 23:20:56 : ERROR : found error in info json :local variable 'collection' referenced before assignment
+
+2021-11-06 <> 23:22:20:New Logger instance created !
+
+2021-11-06 <> 23:22:20 : INFO : Execution started Successfully !
+
+2021-11-06 <> 23:22:34:New Logger instance created !
+
+2021-11-06 <> 23:22:34 : INFO : Execution started Successfully !
+2021-11-06 <> 23:23:00 : INFO : Successfully retrieved information from the user... !
+2021-11-06 <> 23:23:00 : ERROR : Error while connecting to Database :All nameservers failed to answer the query _mongodb._tcp.cluster0.j7nj9.mongodb.net. IN SRV: Server 192.168.42.129 UDP port 53 answered [WinError 10065] A socket operation was attempted to an unreachable host; Server 192.168.1.1 UDP port 53 answered [WinError 10065] A socket operation was attempted to an unreachable host; Server 192.168.141.3 UDP port 53 answered [WinError 10065] A socket operation was attempted to an unreachable host
+2021-11-06 <> 23:23:00 : ERROR : Found error in DB or Collection : local variable 'client' referenced before assignment
+2021-11-06 <> 23:23:00 : ERROR : found error in info json :local variable 'collection' referenced before assignment
+2021-11-06 <> 23:24:10 : INFO : Successfully retrieved information from the user... !
+2021-11-06 <> 23:24:10 : ERROR : Error while connecting to Database :All nameservers failed to answer the query _mongodb._tcp.cluster0.j7nj9.mongodb.net. IN SRV: Server 192.168.42.129 UDP port 53 answered [WinError 10065] A socket operation was attempted to an unreachable host; Server 192.168.1.1 UDP port 53 answered [WinError 10065] A socket operation was attempted to an unreachable host; Server 192.168.141.3 UDP port 53 answered [WinError 10065] A socket operation was attempted to an unreachable host
+2021-11-06 <> 23:24:10 : ERROR : Found error in DB or Collection : local variable 'client' referenced before assignment
+2021-11-06 <> 23:24:10 : ERROR : found error in info json :local variable 'collection' referenced before assignment
+
+2021-11-07 <> 11:12:43:New Logger instance created !
+
+2021-11-07 <> 11:12:44 : INFO : Execution started Successfully !
+
+2021-11-07 <> 11:12:53:New Logger instance created !
+
+2021-11-07 <> 11:12:53 : INFO : Execution started Successfully !
+
+2021-11-07 <> 11:13:19:New Logger instance created !
+
+2021-11-07 <> 11:13:19 : INFO : Execution started Successfully !
+2021-11-07 <> 11:15:14 : INFO : Successfully retrieved information from the user... !
+2021-11-07 <> 11:15:22 : INFO : Database connection established..! !
+2021-11-07 <> 11:15:22 : INFO : Database Created !
+2021-11-07 <> 11:15:22 : INFO : Collection Created!
+2021-11-07 <> 11:15:23 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-07 <> 11:15:23 : INFO : Database connection closed Successfully !!
+2021-11-07 <> 11:15:23 : INFO : Prediction done Successfully !
+
+2021-11-07 <> 11:15:34:New Logger instance created !
+
+2021-11-07 <> 11:15:34 : INFO : Execution started Successfully !
+
+2021-11-07 <> 11:28:40:New Logger instance created !
+
+2021-11-07 <> 11:28:40 : INFO : Execution started Successfully !
+2021-11-07 <> 11:30:23 : INFO : Successfully retrieved information from the user... !
+2021-11-07 <> 11:30:32 : INFO : Database connection established..! !
+2021-11-07 <> 11:30:32 : INFO : Database Created !
+2021-11-07 <> 11:30:32 : INFO : Collection Created!
+2021-11-07 <> 11:30:33 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-07 <> 11:30:34 : INFO : Database connection closed Successfully !!
+2021-11-07 <> 11:30:34 : INFO : Prediction done Successfully !
+2021-11-07 <> 11:31:28 : INFO : Successfully retrieved information from the user... !
+2021-11-07 <> 11:31:37 : INFO : Database connection established..! !
+2021-11-07 <> 11:31:37 : INFO : Database Created !
+2021-11-07 <> 11:31:37 : INFO : Collection Created!
+2021-11-07 <> 11:31:38 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-07 <> 11:31:38 : INFO : Database connection closed Successfully !!
+2021-11-07 <> 11:31:38 : INFO : Prediction done Successfully !
+2021-11-07 <> 11:31:57 : INFO : Database connection established..! !
+2021-11-07 <> 11:31:57 : INFO : Retriviwed all data from Collection Visibility !
+2021-11-07 <> 11:31:58 : INFO : Closing the Connection !
+2021-11-07 <> 11:31:58 : INFO : Rendering tamplate <database.html> with all Data !
+
+2021-11-07 <> 11:35:31:New Logger instance created !
+
+2021-11-07 <> 11:35:31 : INFO : Execution started Successfully !
+2021-11-07 <> 12:34:29 : INFO : Successfully retrieved information from the user... !
+2021-11-07 <> 12:34:38 : INFO : Database connection established..! !
+2021-11-07 <> 12:34:38 : INFO : Database Created !
+2021-11-07 <> 12:34:38 : INFO : Collection Created!
+2021-11-07 <> 12:34:40 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-07 <> 12:34:40 : INFO : Database connection closed Successfully !!
+2021-11-07 <> 12:34:40 : INFO : Prediction done Successfully !
+
+2021-11-07 <> 12:34:50:New Logger instance created !
+
+2021-11-07 <> 12:34:50 : INFO : Execution started Successfully !
+2021-11-07 <> 12:35:49 : INFO : Successfully retrieved information from the user... !
+2021-11-07 <> 12:35:58 : INFO : Database connection established..! !
+2021-11-07 <> 12:35:58 : INFO : Database Created !
+2021-11-07 <> 12:35:58 : INFO : Collection Created!
+2021-11-07 <> 12:35:59 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-07 <> 12:35:59 : INFO : Database connection closed Successfully !!
+2021-11-07 <> 12:35:59 : INFO : Prediction done Successfully !
+
+2021-11-07 <> 12:36:02:New Logger instance created !
+
+2021-11-07 <> 12:36:02 : INFO : Execution started Successfully !
+2021-11-07 <> 12:40:11 : INFO : Successfully retrieved information from the user... !
+2021-11-07 <> 12:40:19 : INFO : Database connection established..! !
+2021-11-07 <> 12:40:19 : INFO : Database Created !
+2021-11-07 <> 12:40:19 : INFO : Collection Created!
+2021-11-07 <> 12:40:20 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-07 <> 12:40:20 : INFO : Database connection closed Successfully !!
+2021-11-07 <> 12:40:20 : INFO : Prediction done Successfully !
+
+2021-11-07 <> 12:48:03:New Logger instance created !
+
+2021-11-07 <> 12:48:03 : INFO : Execution started Successfully !
+2021-11-07 <> 12:50:57 : INFO : Successfully retrieved information from the user... !
+2021-11-07 <> 12:51:06 : INFO : Database connection established..! !
+2021-11-07 <> 12:51:06 : INFO : Database Created !
+2021-11-07 <> 12:51:06 : INFO : Collection Created!
+2021-11-07 <> 12:51:07 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-07 <> 12:51:07 : INFO : Database connection closed Successfully !!
+2021-11-07 <> 12:51:07 : INFO : Prediction done Successfully !
+2021-11-07 <> 12:51:39 : INFO : Database connection established..! !
+2021-11-07 <> 12:51:39 : INFO : Retriviwed all data from Collection Visibility !
+2021-11-07 <> 12:51:40 : INFO : Closing the Connection !
+2021-11-07 <> 12:51:40 : INFO : Rendering tamplate <database.html> with all Data !
+2021-11-07 <> 12:54:49 : INFO : Successfully retrieved information from the user... !
+2021-11-07 <> 12:55:10 : ERROR : Error while connecting to Database :The DNS operation timed out after 21.601591110229492 seconds
+2021-11-07 <> 12:55:10 : ERROR : Found error in DB or Collection : local variable 'client' referenced before assignment
+2021-11-07 <> 12:55:10 : ERROR : found error in info json :local variable 'collection' referenced before assignment
+
+2021-11-11 <> 22:48:54:New Logger instance created !
+
+2021-11-11 <> 22:48:54 : INFO : Execution started Successfully !
+
+2021-11-11 <> 22:49:10:New Logger instance created !
+
+2021-11-11 <> 22:49:10 : INFO : Execution started Successfully !
+
+2021-11-11 <> 22:50:53:New Logger instance created !
+
+2021-11-11 <> 22:50:53 : INFO : Execution started Successfully !
+
+2021-11-11 <> 22:54:26:New Logger instance created !
+
+2021-11-11 <> 22:54:26 : INFO : Execution started Successfully !
+
+2021-11-20 <> 09:31:23:New Logger instance created !
+
+2021-11-20 <> 09:31:24 : INFO : Execution started Successfully !
+
+2021-11-20 <> 09:31:38:New Logger instance created !
+
+2021-11-20 <> 09:31:38 : INFO : Execution started Successfully !
+2021-11-20 <> 09:41:29 : INFO : Successfully retrieved information from the user... !
+
+2021-11-20 <> 09:42:04:New Logger instance created !
+
+2021-11-20 <> 09:42:04 : INFO : Execution started Successfully !
+2021-11-20 <> 09:42:24 : INFO : Return from the Predict Route!!
+2021-11-20 <> 09:42:34 : INFO : Successfully retrieved information from the user... !
+2021-11-20 <> 09:42:35 : INFO : Successfully retrieved information from the user... !
+2021-11-20 <> 09:42:47 : INFO : Database connection established..! !
+2021-11-20 <> 09:42:47 : INFO : Database Created !
+2021-11-20 <> 09:42:47 : INFO : Collection Created!
+2021-11-20 <> 09:42:49 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-20 <> 09:42:49 : INFO : Database connection closed Successfully !!
+2021-11-20 <> 09:42:49 : INFO : Prediction done Successfully !
+2021-11-20 <> 09:42:49 : INFO : Database connection established..! !
+2021-11-20 <> 09:42:49 : INFO : Database Created !
+2021-11-20 <> 09:42:49 : INFO : Collection Created!
+2021-11-20 <> 09:42:49 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-20 <> 09:42:49 : INFO : Database connection closed Successfully !!
+2021-11-20 <> 09:42:49 : INFO : Prediction done Successfully !
+
+2021-11-20 <> 09:42:55:New Logger instance created !
+
+2021-11-20 <> 09:42:55 : INFO : Execution started Successfully !
+
+2021-11-25 <> 17:35:28:New Logger instance created !
+
+2021-11-25 <> 17:35:28 : INFO : Execution started Successfully !
+
+2021-11-25 <> 17:36:21:New Logger instance created !
+
+2021-11-25 <> 17:36:21 : INFO : Execution started Successfully !
+2021-11-25 <> 17:39:56 : INFO : Successfully retrieved information from the user... !

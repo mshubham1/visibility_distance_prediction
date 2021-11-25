@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+        body {
+            background-color: #76D7C4;
+            text-align: center;
+            padding: 0px;
+        }
+         
+        
+        #sub {
+            width: 120px;
+            height: 43px;
+            text-align: center;
+            border-radius: 14px;
+            font-size: 18px;
+        }
+        
+        #sub:hover {
+            background-color: grey;
+        }
+        
+        #third {
+            border-radius: 14px;
+            height: 25px;
+            font-size: 20px;
+            text-align: center;
+        }
+       
+    </style>
+
+</head>
+
+<body>
+    <div style="color:black">
+        <form action="{{ url_for('predict')}}" method="post">
+            <h1>Visibility Distance Prediction</h1>
+            <h3>WETBULBTEMPF: </h3><input id="third" name="WETBULBTEMPF1" placeholder="eg. 35" required="required">
+            <h3>RelativeHumidity:  </h3><input id="third" name="RelativeHumidity" placeholder="eg. 60"  required="required">  
+            <h3>WindSpeed: </h3><input id="third" name="WindSpeed" placeholder="eg. 33"  required="required">
+            <h3>WindDirection: </h3><input id="third" name="WindDirection" placeholder="eg. 140"  required="required">
+            <h3>SeaLevelPressure: </h3><input id="third" name="SeaLevelPressure" placeholder="eg. <in 28 to 30>"  required="required">
+            <br><br><button id="sub" type="submit "> Predict Visibility </button>
+            <br>
+        </form>
+
+        <br><br><h2 style="color:RED">{{result}}<h2>
+    </div>
+    
+</body>
+
+</html>
